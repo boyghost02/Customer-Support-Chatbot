@@ -1,0 +1,104 @@
+# Python backend
+chatbot-backend/__pycache__/
+chatbot-backend/*.py[cod]
+chatbot-backend/*$py.class
+chatbot-backend/*.so
+chatbot-backend/.Python
+chatbot-backend/env/
+chatbot-backend/venv/
+chatbot-backend/.venv/
+chatbot-backend/build/
+chatbot-backend/develop-eggs/
+chatbot-backend/dist/   
+chatbot-backend/downloads/
+chatbot-backend/eggs/
+chatbot-backend/.eggs/
+chatbot-backend/lib/
+chatbot-backend/lib64/
+chatbot-backend/parts/
+chatbot-backend/sdist/
+chatbot-backend/var/
+chatbot-backend/*.egg-info/
+chatbot-backend/.installed.cfg
+chatbot-backend/*.egg
+chatbot-backend/*.log
+chatbot-backend/*.db
+chatbot-backend/.env
+chatbot-backend/.env.*
+chatbot-backend/data/
+chatbot-backend/logs/
+chatbot-backend/models/
+chatbot-backend/.coverage
+chatbot-backend/htmlcov/
+chatbot-backend/.pytest_cache/
+chatbot-backend/.mypy_cache/
+
+# Node/React frontend
+chatbot-frontend/node_modules/
+chatbot-frontend/build/
+chatbot-frontend/dist/
+chatbot-frontend/.DS_Store
+chatbot-frontend/.env
+chatbot-frontend/.env.local
+chatbot-frontend/.env.development.local
+chatbot-frontend/.env.test.local
+chatbot-frontend/.env.production.local
+chatbot-frontend/npm-debug.log*
+chatbot-frontend/yarn-debug.log*
+chatbot-frontend/yarn-error.log*
+chatbot-frontend/coverage/
+chatbot-frontend/.next/
+chatbot-frontend/.cache/
+chatbot-frontend/.eslintcache
+chatbot-frontend/.env.local
+chatbot-frontend/.env.development
+chatbot-frontend/.env.test
+chatbot-frontend/.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~.nib
+local.properties

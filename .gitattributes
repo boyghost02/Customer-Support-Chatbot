@@ -1,0 +1,24 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python files
+*.py text diff=python
+*.ipynb text
+
+# JavaScript/React files
+*.js text
+*.jsx text
+*.css text
+*.html text
+*.json text
+
+# Documentation
+*.md text diff=markdown
+
+# Binary files
+*.png binary
+*.jpg binary
+*.ico binary
+*.db binary
+*.pkl binary
+*.faiss binary
