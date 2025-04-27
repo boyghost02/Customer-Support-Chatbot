@@ -2,10 +2,10 @@
 
 ## Group 4
 
-- **20127206**: Full support for English and Vietnamese
-- **20127384**: Advanced NLU with intent classification and entity extraction
-- **20127443**: Adjusts responses based on detected user sentiment
-- **20127652**: Uses real customer support data collected from multiple sources
+- **20127206 - Vũ Đình Duy Khánh**
+- **20127384 - Văng Khánh Tường**
+- **20127443 - Nguyễn Hồ Hữu Bằng**
+- **20127652 - Hoàng Minh Triết**
 
 ## Demo
 
